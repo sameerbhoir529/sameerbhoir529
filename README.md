@@ -10,8 +10,6 @@
 <!-- About me -->
 <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp;***About me***
 
-<img align="right" width=200px alt="Unicorn" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
-
 I am a **Computer Application** student, Recently Graduate with Bachelor degree in Computer Application, with 6 months experience as a *Full Stack Java Developer*, both in back-end and front-end. I have experience as a software developer in the *Perfect IT Solution*, and my goal is to strengthen my development skills and explore new technologies. I love to learn and build something new, creative and fun.
 - 📚 I’m currently learning ...
   - *Angular*
