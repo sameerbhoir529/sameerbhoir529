@@ -17,7 +17,7 @@ I am a **Computer Application** student, Recently Graduate with Bachelor degree 
 - 🚀 I’m eager to work on new projects.
 - ✔ Feel free to ask me anything! I’m motivated to help others.
 - Outside tech, I enjoy socializing with friends, 🎮 playing video games, 🎵 listening to music, and I also love 🎸 playing musical instruments.
-- 📫 Reach out to me at: <a href="sameerbhoir529@gmail.com">sameerbhoir529@gmail.com</a>
+- 📫 Reach out to me at: <a href="work.sameerbhoir@gmail.com">work.sameerbhoir@gmail.com</a>
 <br>
 
 <!-- Profile Trophies -->
